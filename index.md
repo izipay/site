@@ -1,4 +1,4 @@
-## Conheça as formas de pagamentos ofertadas pelo nosso aplicativo !
+## Conheça as formas de pagamentos ofertadas pelo nosso aplicativo!
 
 
 - Transferência bancaria
